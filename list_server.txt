@@ -17,3 +17,8 @@ mx10.hostgator.mx
 mx22.hostgator.mx
 mx12.hostgator.mx
 mx24.hostgator.mx
+mx14.hostgator.mx
+mx16.hostgator.mx
+mx10.hostgator.mx
+mx12.hostgator.mx
+
