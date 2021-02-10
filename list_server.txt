@@ -6,10 +6,3 @@ bz18.hostgator.com.br
 bz20.hostgator.com.br
 bz22.hostgator.com.br
 bz24.hostgator.com.br
-bz26.hostgator.com.br
-bz28.hostgator.com.br
-bz30.hostgator.com.br
-bz32.hostgator.com.br
-bz34.hostgator.com.br
-bz38.hostgator.com.br
-bz40.hostgator.com.br
